@@ -1,5 +1,5 @@
 import React from 'react'
-import lastpage from '../assets/Lastpage.png'
+import lastpage from '../assets/banner.png'
 
 const Lastpage = () => {
   return (
